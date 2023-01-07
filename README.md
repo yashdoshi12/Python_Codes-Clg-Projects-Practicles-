@@ -1,2 +1,2 @@
-# Python Codes(College Practicles)
-These are the python codes I executed during my python practicals in college. 
+# Python Codes (College Practicals)
+These are the Python codes that I executed during my Python practicals in college. 
